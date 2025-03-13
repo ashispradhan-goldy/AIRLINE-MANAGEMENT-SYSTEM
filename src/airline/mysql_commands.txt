@@ -1,6 +1,8 @@
 This file contains information on creating a database for the Airline Management System project. 
 It's assumed that this process is performed at the command line.
 
+Here is the guidelines.
+
 Tasks:
 
 1. Create Database
