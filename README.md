@@ -23,9 +23,6 @@ Airline Management System is a desktop-based application that allows a user to a
 
 i. Clone the git repo
 
-```
-https://github.com/AAdewunmi/Airline-Management-System.git
-```
 
 ii. Open project folder
 
