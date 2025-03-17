@@ -28,8 +28,6 @@ ii. Open project folder
 
 iii. Explore
 
-😎
-
 ## 5. How To Use:
 
 i. Create Database and Tables (src/airline/mysql_commands.txt)
